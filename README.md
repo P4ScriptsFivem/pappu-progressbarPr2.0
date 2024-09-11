@@ -1,7 +1,7 @@
 # progressbar 
 
 ## Showcase 
-![image](https://github.com/user-attachments/assets/cf77dd93-fb28-4bae-b69a-66aebe36ead5)
+![Group 5781](https://github.com/user-attachments/assets/a33ea043-dee9-4dea-8694-e616b9ee7d08)
 
  
 ## Dependencies
